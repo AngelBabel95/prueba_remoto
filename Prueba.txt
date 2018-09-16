@@ -1,1 +1,7 @@
 PRUEBAS PARA UTILIZAR LA FUNCIONALIDAD DE SOURCETREE
+
+Indice:
+1-Resumen del contenido
+2-Nueva funcionalidad principal
+3-Mergear todo
+
