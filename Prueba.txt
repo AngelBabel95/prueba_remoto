@@ -4,4 +4,5 @@ Indice:
 1-Resumen del contenido
 2-Nueva funcionalidad principal
 3-Mergear todo
+4-Ahora se hace un nuevo commit añadiendo nuevo punto al índice
 
